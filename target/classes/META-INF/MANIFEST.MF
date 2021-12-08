@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-neo4j-example-1
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: nraja
+Implementation-Vendor-Id: com.nagarjuna.neo4j
+Build-Jdk: 1.8.0_251
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ neo4j-example-1/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
